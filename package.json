@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://fynewily.github.io/tic-tac-toe/",
+  "engines": {
+    "npm": "6.4.1",
+    "node": "11.0.0"
+  },
   "dependencies": {
     "ajv": "^6.5.4",
     "react": "^16.6.0",
